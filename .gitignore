@@ -1,0 +1,10 @@
+*.pyc
+.*.swp
+.cache
+test/__pycache__
+
+.tox
+.python-version
+.coverage
+
+flake8_function_definition.egg-info/
